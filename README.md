@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adune-codes
-- 👀 I’m interested in all things weg development for my studies in Marketing
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 👀 I’m interested in all things data sciences and automation for my studies in marketing. 
+- 🌱 I’m currently learning Python
 - New to coding but excited to learn
 - Accompany me on my Journey
 
